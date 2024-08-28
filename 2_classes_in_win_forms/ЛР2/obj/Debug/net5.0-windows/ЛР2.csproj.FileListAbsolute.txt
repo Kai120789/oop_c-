@@ -1,0 +1,37 @@
+C:\Users\infom\source\repos\ЛР2\bin\Debug\net5.0-windows\ЛР2.exe
+C:\Users\infom\source\repos\ЛР2\bin\Debug\net5.0-windows\ЛР2.deps.json
+C:\Users\infom\source\repos\ЛР2\bin\Debug\net5.0-windows\ЛР2.runtimeconfig.json
+C:\Users\infom\source\repos\ЛР2\bin\Debug\net5.0-windows\ЛР2.runtimeconfig.dev.json
+C:\Users\infom\source\repos\ЛР2\bin\Debug\net5.0-windows\ЛР2.dll
+C:\Users\infom\source\repos\ЛР2\bin\Debug\net5.0-windows\ref\ЛР2.dll
+C:\Users\infom\source\repos\ЛР2\bin\Debug\net5.0-windows\ЛР2.pdb
+C:\Users\infom\source\repos\ЛР2\obj\Debug\net5.0-windows\ЛР2.csproj.AssemblyReference.cache
+C:\Users\infom\source\repos\ЛР2\obj\Debug\net5.0-windows\ЛР2.Form1.resources
+C:\Users\infom\source\repos\ЛР2\obj\Debug\net5.0-windows\ЛР2.csproj.GenerateResource.cache
+C:\Users\infom\source\repos\ЛР2\obj\Debug\net5.0-windows\ЛР2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infom\source\repos\ЛР2\obj\Debug\net5.0-windows\ЛР2.AssemblyInfoInputs.cache
+C:\Users\infom\source\repos\ЛР2\obj\Debug\net5.0-windows\ЛР2.AssemblyInfo.cs
+C:\Users\infom\source\repos\ЛР2\obj\Debug\net5.0-windows\ЛР2.csproj.CoreCompileInputs.cache
+C:\Users\infom\source\repos\ЛР2\obj\Debug\net5.0-windows\ЛР2.dll
+C:\Users\infom\source\repos\ЛР2\obj\Debug\net5.0-windows\ref\ЛР2.dll
+C:\Users\infom\source\repos\ЛР2\obj\Debug\net5.0-windows\ЛР2.pdb
+C:\Users\infom\source\repos\ЛР2\obj\Debug\net5.0-windows\ЛР2.genruntimeconfig.cache
+C:\Users\infom\Desktop\ООП Усачев 22-КБ-ПР1\ЛабораторнаяРабота№2\ЛР2\bin\Debug\net5.0-windows\ЛР2.exe
+C:\Users\infom\Desktop\ООП Усачев 22-КБ-ПР1\ЛабораторнаяРабота№2\ЛР2\bin\Debug\net5.0-windows\ЛР2.deps.json
+C:\Users\infom\Desktop\ООП Усачев 22-КБ-ПР1\ЛабораторнаяРабота№2\ЛР2\bin\Debug\net5.0-windows\ЛР2.runtimeconfig.json
+C:\Users\infom\Desktop\ООП Усачев 22-КБ-ПР1\ЛабораторнаяРабота№2\ЛР2\bin\Debug\net5.0-windows\ЛР2.runtimeconfig.dev.json
+C:\Users\infom\Desktop\ООП Усачев 22-КБ-ПР1\ЛабораторнаяРабота№2\ЛР2\bin\Debug\net5.0-windows\ЛР2.dll
+C:\Users\infom\Desktop\ООП Усачев 22-КБ-ПР1\ЛабораторнаяРабота№2\ЛР2\bin\Debug\net5.0-windows\ref\ЛР2.dll
+C:\Users\infom\Desktop\ООП Усачев 22-КБ-ПР1\ЛабораторнаяРабота№2\ЛР2\bin\Debug\net5.0-windows\ЛР2.pdb
+C:\Users\infom\Desktop\ООП Усачев 22-КБ-ПР1\ЛабораторнаяРабота№2\ЛР2\obj\Debug\net5.0-windows\ЛР2.csproj.AssemblyReference.cache
+C:\Users\infom\Desktop\ООП Усачев 22-КБ-ПР1\ЛабораторнаяРабота№2\ЛР2\obj\Debug\net5.0-windows\ЛР2.Form1.resources
+C:\Users\infom\Desktop\ООП Усачев 22-КБ-ПР1\ЛабораторнаяРабота№2\ЛР2\obj\Debug\net5.0-windows\ЛР2.csproj.GenerateResource.cache
+C:\Users\infom\Desktop\ООП Усачев 22-КБ-ПР1\ЛабораторнаяРабота№2\ЛР2\obj\Debug\net5.0-windows\ЛР2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infom\Desktop\ООП Усачев 22-КБ-ПР1\ЛабораторнаяРабота№2\ЛР2\obj\Debug\net5.0-windows\ЛР2.AssemblyInfoInputs.cache
+C:\Users\infom\Desktop\ООП Усачев 22-КБ-ПР1\ЛабораторнаяРабота№2\ЛР2\obj\Debug\net5.0-windows\ЛР2.AssemblyInfo.cs
+C:\Users\infom\Desktop\ООП Усачев 22-КБ-ПР1\ЛабораторнаяРабота№2\ЛР2\obj\Debug\net5.0-windows\ЛР2.csproj.CoreCompileInputs.cache
+C:\Users\infom\Desktop\ООП Усачев 22-КБ-ПР1\ЛабораторнаяРабота№2\ЛР2\obj\Debug\net5.0-windows\ЛР2.dll
+C:\Users\infom\Desktop\ООП Усачев 22-КБ-ПР1\ЛабораторнаяРабота№2\ЛР2\obj\Debug\net5.0-windows\ref\ЛР2.dll
+C:\Users\infom\Desktop\ООП Усачев 22-КБ-ПР1\ЛабораторнаяРабота№2\ЛР2\obj\Debug\net5.0-windows\ЛР2.pdb
+C:\Users\infom\Desktop\ООП Усачев 22-КБ-ПР1\ЛабораторнаяРабота№2\ЛР2\obj\Debug\net5.0-windows\ЛР2.genruntimeconfig.cache
+C:\Users\infom\Desktop\ООП Усачев 22-КБ-ПР1\ЛабораторнаяРабота№2\ЛР2\obj\Debug\net5.0-windows\ЛР2.Properties.Resources.resources
